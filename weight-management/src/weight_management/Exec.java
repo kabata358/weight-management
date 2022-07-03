@@ -25,7 +25,7 @@ public class Exec {
 		
 		//// マクロバランスを算出
 		int gender, age, activity, goal;
-		double correction, basalMetabolism, magnification, totalCalories, caloriesBurned, protein, fat, carbohydrate;
+		double correction, basalMetabolism, magnification, caloriesBurned, totalCalories, protein, fat, carbohydrate;
 		
 		// 情報入力
 		System.out.println("性別を入力してください。");
